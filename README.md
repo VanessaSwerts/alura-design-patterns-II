@@ -1,17 +1,16 @@
-# Design Patterns em Java I: Introdução às boas práticas de programação
+# Design Patterns em Java II: Avançando nas boas práticas de programação
 
 ## 💻 Sobre 
 
-Repositório criado para armazenar o código realizado durante o curso "Design Patterns em Java I: Introdução às boas práticas de programação" da [Alura](https://cursos.alura.com.br/course/introducao-design-patterns-java).
+Repositório criado para armazenar o código realizado durante o curso "Design Patterns em Java II: Avançando nas boas práticas de programação" da [Alura](https://cursos.alura.com.br/course/introducao-design-patterns-java).
 
 ## :gear: Design Pattern Utilizados
   
-  - [x] Strategy
-  - [x] Chain of Responsibility
-  - [x] Template Method
-  - [x] State
-  - [x] Command
-  - [x] Observer
+  - [ ] Adapter
+  - [ ] Decorator
+  - [ ] Composite
+  - [ ] Facade
+  - [ ] Proxy
 
 ## 🦸 Autora
 
