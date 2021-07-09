@@ -2,7 +2,7 @@
 
 ## 💻 Sobre 
 
-Repositório criado para armazenar o código realizado durante o curso "Design Patterns em Java II: Avançando nas boas práticas de programação" da [Alura](https://cursos.alura.com.br/course/introducao-design-patterns-java).
+Repositório criado para armazenar o código realizado durante o curso "Design Patterns em Java II: Avançando nas boas práticas de programação" da [Alura](https://cursos.alura.com.br/course/avancando-design-patterns-java).
 
 ## :gear: Design Pattern Utilizados
   
