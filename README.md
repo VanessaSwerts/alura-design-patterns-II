@@ -6,11 +6,11 @@ Repositório criado para armazenar o código realizado durante o curso "Design P
 
 ## :gear: Design Pattern Utilizados
   
-  - [x] Adapter
-  - [x] Decorator
-  - [x] Composite
-  - [x] Facade
-  - [x] Proxy
+  - [x] [Adapter](https://refactoring.guru/design-patterns/adapter)
+  - [x] [Decorator](https://refactoring.guru/design-patterns/decorator)
+  - [x] [Composite](https://refactoring.guru/design-patterns/composite)
+  - [x] [Facade](https://refactoring.guru/design-patterns/facade)
+  - [x] [Proxy](https://refactoring.guru/design-patterns/proxy)
 
 ## 🦸 Autora
 
