@@ -7,10 +7,10 @@ Repositório criado para armazenar o código realizado durante o curso "Design P
 ## :gear: Design Pattern Utilizados
   
   - [x] Adapter
-  - [ ] Decorator
-  - [ ] Composite
-  - [ ] Facade
-  - [ ] Proxy
+  - [x] Decorator
+  - [x] Composite
+  - [x] Facade
+  - [x] Proxy
 
 ## 🦸 Autora
 
