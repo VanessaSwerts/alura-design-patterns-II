@@ -1,4 +1,16 @@
-# Design Patterns em Java II: Avançando nas boas práticas de programação
+<p align="center">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/vanessaswerts/alura-design-patterns-II">
+
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/vanessaswerts/alura-design-patterns-II">
+  
+  <a href="https://github.com/vanessaswerts/alura-design-patterns-II/commits/master">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/vanessaswerts/alura-design-patterns-II">
+  </a>
+</p>
+
+<h4 align="center"> 
+	✅ Design Patterns em Java II: Avançando nas boas práticas de programação - Concluído ✅
+</h4>
 
 ## 💻 Sobre 
 
